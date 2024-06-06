@@ -120,7 +120,7 @@ Not every contributor will reach this level, and that's okay! L2 testers still h
 
 #### Privileges
 
-- All privileges of the [Tester role](#level-2---tester), plus...
+- All privileges of the [Tester role](#level-2-l2---tester), plus...
 - Appropriate role on Discord based off your talent.
 - Invitation to the team on GitHub.
 - Ability to vote on most initiatives (see [Voting](#voting) below).
