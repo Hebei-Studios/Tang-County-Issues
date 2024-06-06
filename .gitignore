@@ -1,0 +1,95 @@
+# Visual Studio Code Settings Configuration
+/.vscode/settings.json
+
+# Packages
+/Packages
+/CustomPackages
+/node_modules
+/jspm_packages
+__pycache__/
+/vendor/
+
+# Rojo Sourcemap
+/sourcemap.json
+
+# Roblox Model Files
+/*.rbxm
+/*.rbxmx
+
+# Roblox Place Files
+/*.rbxl
+/*.rbxlx
+
+# Lock Files
+/*.lock
+/*.lock
+
+# Lua Type Files
+/globalTypes.d.lua
+
+# Keep Tracking Empty Folders
+!.gitkeep
+
+# Environmental Variables
+*.env*
+*.venv*
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+!.env.template
+
+# MKDocs Documentation
+/site
+
+# Windows Styling
+[Dd]esktop.ini
+
+# MacOS
+.DS_Store
+
+# Selene Auto-Generated Config
+/roblox.toml
+
+# Production Builds
+/[Bb]uild
+/[Rr]elease
+
+# Bytecode Playgrounds
+bytecode.luau
+
+# Compiled Lua sources
+luac.out
+
+# lua Rocks Build Files
+*.src.rock
+*.zip
+*.tar.gz
+
+# Executables
+*.exe
+*.out
+*.app
+*.apk
+*.i*86
+*.x86_64
+*.hex
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic Reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# TypeScript Cache
+*.tsbuildinfo
+
+# Output Of 'npm pack'
+*.tgz
