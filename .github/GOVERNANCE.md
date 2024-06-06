@@ -60,7 +60,7 @@ Have you done something (big or small) to contribute to the health, success, or 
 
 This role does not require any extra responsibilities nor time commitment. We hope you stick around and keep participating in our community!
 
-If you're interested in reaching the next level and becoming a **Maintainer**, you can explore some of those responsibilities in the [next section](#level-2-l2---tester).
+If you're interested in reaching the next level and becoming a **Tester**, you can explore some of those responsibilities in the [next section](#level-2-l2---tester).
 
 #### Nomination Process
 
@@ -250,7 +250,7 @@ This process kicks off once a valid nomination has been made. See ["Tester - Nom
 
 ## Voting: Insider Member (L3) Nomination
 
-This process kicks off once a valid nomination has been made. See ["Insider Member - Nomination Process"](#nomination-process) above for more details on nomination.
+This process kicks off once a valid nomination has been made. See ["Insider - Nomination Process"](#nomination-process) above for more details on nomination.
 
 **Who can vote:** All Insider members (L3 and above).
 
