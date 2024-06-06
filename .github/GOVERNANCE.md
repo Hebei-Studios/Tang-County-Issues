@@ -234,7 +234,7 @@ The Project Leaders may initiate a vote for any unlisted Project decision. [Gene
 
 ## Voting: Tester (L2) Nomination
 
-This process kicks off once a valid nomination has been made. See ["Tester - Nomination Process"](#nomination-process) above for more details on nomination.
+This process kicks off once a valid nomination has been made. See Tester - Nomination Process above for more details on nomination.
 
 **Who can vote:** All Testers (L2 and above).
 
@@ -250,7 +250,7 @@ This process kicks off once a valid nomination has been made. See ["Tester - Nom
 
 ## Voting: Insider Member (L3) Nomination
 
-This process kicks off once a valid nomination has been made. See ["Insider - Nomination Process"](#nomination-process) above for more details on nomination.
+This process kicks off once a valid nomination has been made. See Insider Nomination Process above for more details on nomination.
 
 **Who can vote:** All Insider members (L3 and above).
 
@@ -302,11 +302,11 @@ The reviewers should aim to have a resolution agreed very rapidly; if not agreed
 
 Responses will be determined by the reviewers on the basis of the information gathered and of the potential consequences. It may include:
 
-- taking no further action
-- issuing a reprimand (private or public)
-- asking for an apology (private or public)
-- permanent ban from the GitHub org and Discord server
-- revoked contributor status
+- Taking no further action.
+- Issuing a reprimand. (private or public)
+- Asking for an apology. (private or public)
+- Permanent ban from the GitHub org and Discord server.
+- Revoked contributor status.
 
 ---
 
