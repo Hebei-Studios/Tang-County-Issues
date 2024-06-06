@@ -2,7 +2,7 @@
 
 This document outlines the base governance model for Tang County. This includes detailed descriptions of different roles, nomination processes, code review processes, and Code of Conduct enforcement.
 
-**All community members must follow the [Code of Conduct (CoC)](.github/CODE_OF_CONDUCT.md).**  
+**All community members must follow the [Code of Conduct (CoC)](CODE_OF_CONDUCT.md).**  
 Consequences for CoC violations are detailed in [Moderation](#moderation).
 
 **Want to trigger a vote, nomination, or perform some other action?**  
@@ -26,7 +26,7 @@ Contributor levels are available to **all members** of the community, regardless
 Two important things that we look for in a contributor are:
 
 - **Being here** - Everyone's time is valuable, and the fact that you're here and contributing to Tang County is amazing! Thank you for being a part of this Project with us.
-- **Being a positive member of our community** - Go above and beyond our [Code of Conduct](.github/CODE_OF_CONDUCT.md) and commit to healthy communication across pull requests, issue discussions, Discord conversations, and any interactions outside of our community (ex: no Twitter bullies allowed :)
+- **Being a positive member of our community** - Go above and beyond our [Code of Conduct](CODE_OF_CONDUCT.md) and commit to healthy communication across pull requests, issue discussions, Discord conversations, and any interactions outside of our community (ex: no Twitter bullies allowed :)
 
 All Contributor roles are granted for as long as the individual wishes to engage with the Project.
 
