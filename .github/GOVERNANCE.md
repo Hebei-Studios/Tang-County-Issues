@@ -164,11 +164,11 @@ The role of Leaders is mainly an administrative one. Leaders control and maintai
 In extremely rare cases, a Leaders can act unilaterally when they believe it is in the Project's best interest and can prove that the issue cannot be resolved through normal governance procedure. The Leaders must publicly state their reason for unilateral action before taking it.
 
 The Project Leaders are currently: (Discord usernames)
-@duckination - Founder of Hebei Studios
-@shinedown204 - Project Manager & Leader
-@solarfolix - Project Manager
-@zharvuiys - Assistant Manager
-@iceeburr - Lead Programmer & Repository Maintainer
+@duckination - Founder of Hebei Studios <br>
+@shinedown204 - Project Manager & Leader <br>
+@solarfolix - Project Manager <br>
+@zharvuiys - Assistant Manager <br>
+@iceeburr - Lead Programmer & Repository Maintainer <br>
 
 #### Responsibilities
 
