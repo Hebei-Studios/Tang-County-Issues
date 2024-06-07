@@ -17,3 +17,4 @@ jobs:
           exempt-pr-labels: 'no-stale,in-progress,help-wanted,critical,security'
           days-before-stale: 14
           days-before-close: 21
+          close-issue-reason: 'completed'
