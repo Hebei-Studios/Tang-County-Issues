@@ -2,7 +2,7 @@
     <img src="./gh-assets/background.png" alt="Background" width="369" height="216">
     <h1 id="Top">Tang County Issue Tracker</h1>
     <h3>Community issue tracker, discussions for new features and enhancements for Tang County.</h3>
-    <a href="https://"><img src="https://img.shields.io/github/issues/Hebei-Studios/Tang-County-Issues.svg" alt="Issues"></a>
+    <a href="https://github.com/Hebei-Studios/Tang-County-Issues/issues"><img src="https://img.shields.io/github/issues/Hebei-Studios/Tang-County-Issues.svg" alt="Issues"></a>
     <a href="https://discord.gg/rWGqsAV798"><img src="https://dcbadge.limes.pink/api/server/https://discord.gg/rWGqsAV798?style=flat" alt="Discord Shield"/></a>
 </div>
 
