@@ -14,7 +14,6 @@ body:
       label: "Description"
       description: "Please enter an explicit description of your issue."
       placeholder: "Short and explicit description of your incident..."
-      render: markdown
     validations:
       required: true
   - type: textarea
@@ -27,7 +26,6 @@ body:
         2. Click on ...
         3. Scroll down to ...
         4. See error
-      render: markdown
     validations:
       required: true
   - type: textarea
@@ -42,8 +40,7 @@ body:
     id: logs
     attributes:
       label: "Logs"
-      description: "Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks."
-      render: markdown
+      description: "Please copy and paste any relevant log output or attach an image."
     validations:
       required: false
   - type: dropdown

@@ -14,7 +14,6 @@ body:
       label: "Description"
       description: "Please enter an explicit description of what you want to ask."
       placeholder: "Short, but detailed description of your question."
-      render: markdown
     validations:
       required: true
   - type: textarea
