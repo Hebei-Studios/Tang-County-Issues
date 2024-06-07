@@ -59,6 +59,9 @@
 - name: "help-wanted"
   color: fef2c0
   description: "We need some extra helping hands or expertise in order to resolve this."
+- name: "discussion-needed"
+  color: fef2c0
+  description: "This should be discussed first before proceeding."
 - name: "critical"
   color: ee0701
   description: "This should be dealt with ASAP. Not fixing this issue would be a serious error."
@@ -77,3 +80,12 @@
 - name: "minor"
   color: 0e8a16
   description: "This issue or PR causes a minor version bump in the version number."
+- name: "programming"
+  color: 2af79e
+  description: "This issue is related to programming and code."
+- name: "design"
+  color: 2af79e
+  description: "This issue is related to design, graphics and user interface."
+- name: "building"
+  color: 2af79e
+  description: "This issue is related to modeling and map building."
