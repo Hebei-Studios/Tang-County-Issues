@@ -13,8 +13,8 @@ jobs:
           stale-pr-message: 'This PR has been put on stale due to inactivity.'
           stale-issue-label: 'stale'
           stale-pr-label: 'stale'
-          exempt-issue-labels: 'no-stale,in-progress,help-wanted,critical,security'
-          exempt-pr-labels: 'no-stale,in-progress,help-wanted,critical,security'
+          exempt-issue-labels: 'no-stale,in-progress,help-wanted,critical,security,investigating'
+          exempt-pr-labels: 'no-stale,in-progress,help-wanted,critical,security,investigating'
           days-before-stale: 14
           days-before-close: 21
           close-issue-reason: 'completed'

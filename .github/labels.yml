@@ -62,6 +62,9 @@
 - name: "discussion-needed"
   color: fef2c0
   description: "This should be discussed first before proceeding."
+- name: "investigating"
+  color: fef2c0
+  description: "This is currently being investigated and looked into."
 - name: "monitoring"
   color: fef2c0
   description: "This is still being monitored before it can be closed as resolved."
