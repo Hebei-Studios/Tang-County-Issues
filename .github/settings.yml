@@ -10,7 +10,7 @@ labels:
   - name: "status: no-stale"
     color: f0ad3f
     description: "This is exempted from the stale bot."
-  ## Awaiting
+  # -- Awaiting
   - name: "status: blocked"
     color: 3732e4
     description: "This is being blocked by other ongoing issues."
@@ -20,11 +20,11 @@ labels:
   - name: "status: discussion-needed"
     color: 3732e4
     description: "This should be discussed first before proceeding."
-  ## In-progress
+  # -- In-progress
   - name: "status: investigating"
     color: f0ad3f
     description: "This is currently being investigated and looked into."
-  ## Rejected
+  # -- Rejected
   - name: "status: incomplete"
     color: ee0701
     description: "Marks a PR or issue that is missing information."
@@ -34,7 +34,7 @@ labels:
   - name: "status: wontfix"
     color: ee0701
     description: "This won't be worked on."
-  ## Completed
+  # -- Completed
   - name: "status: monitoring"
     color: 2af79e
     description: "This is still being monitored before it can be closed as resolved."
@@ -86,7 +86,7 @@ labels:
     description: "This will cause a patch bump in the version 0.0.X"
 
   # Priorities
-  ## High
+  # -- High
   - name: "priority: security"
     color: ee0701
     description: "Marks a security issue that needs to be resolved ASAP."
@@ -96,7 +96,7 @@ labels:
   - name: "priority: high"
     color: ee0701
     description: "After critical issues are fixed, these should be dealt with before any further issues."
-  ## Low
+  # -- Low
   - name: "priority: medium"
     color: 0e8a16
     description: "This issue may be useful, and needs some attention."
