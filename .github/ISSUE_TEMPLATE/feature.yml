@@ -1,11 +1,11 @@
-name: "Enhancement"
-description: "Report any inconsistencies that can be improved."
+name: "Feature Request"
+description: "Got a cool idea you want added? Share it here!"
 title: "Summarize your report."
-labels: ["status: evaluating, type: enhancement"]
+labels: ["status: evaluating, type: feature"]
 body:
   - type: markdown
     attributes:
-      value: Let us know what went wrong and what you want improved.
+      value: "Let us know what's in your mind so we can discuss it."
   - type: textarea
     id: description
     attributes:
@@ -48,7 +48,7 @@ body:
       label: "Checklist"
       description: "Please try to do all of the checks below."
       options:
-        - label: "Wrote a valid and explicit description of your enhancement suggestion."
+        - label: "Wrote a valid and explicit description of your feature request."
           required: true
         - label: "Included screenshots or video material to help explain what you are suggesting."
           required: false

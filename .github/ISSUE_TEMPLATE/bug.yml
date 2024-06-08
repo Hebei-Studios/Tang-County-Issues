@@ -1,9 +1,7 @@
 name: "Bug Report"
-description: "Create a bug report."
+description: "Report any unexpected glitches and inconsistencies."
 title: "Summarize your report."
-labels: ["bug"]
-assignees:
-  - iceeburr
+labels: ["status: evaluating, type: bug"]
 body:
   - type: markdown
     attributes:
@@ -21,7 +19,7 @@ body:
     attributes:
       label: "Reproduction Steps"
       description: "Please tell us exactly how you reproduced it."
-      value: |
+      placeholder: |
         1. Go to ...
         2. Click on ...
         3. Scroll down to ...
@@ -50,10 +48,9 @@ body:
       description: "Which operating systems are affected?"
       multiple: true
       options:
-        - Windows
-        - MacOS
-        - IOS
-        - Android
+        - Computer
+        - Mobile
+        - Controller
         - Other
     validations:
       required: false
@@ -71,7 +68,7 @@ body:
       description: "Please try to do all of the checks below."
       options:
         - label: "Reproduced the issue at least once."
-          required: false
+          required: true
         - label: "Attached valid error logs."
           required: false
         - label: "Included screenshots of the bug happening."

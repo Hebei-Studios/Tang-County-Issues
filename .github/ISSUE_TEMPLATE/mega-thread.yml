@@ -1,5 +1,5 @@
-name: "Other"
-description: "Use this for more complex issues and requests."
+name: "Mega Thread"
+description: "Used for large issue reports that affect a lot of different aspects of the game."
 title: "Summarize your report."
 labels: ["status: evaluating"]
 body:
