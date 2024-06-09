@@ -8,8 +8,33 @@ body:
       value: Write anything you want here.
   - type: textarea
     attributes:
-      label: "Report"
+      label: "Description"
       description: "Please describe everything about your issue. Only use template this if you know what you are doing!"
       placeholder: "Detailed description of your report."
     validations:
       required: true
+  - type: textarea
+    attributes:
+      label: "List of Affected Features"
+      description: "List all of the affected items in here. You should include the exact issue next to the item."
+      placeholder: |
+        * 2021 MG ZST - Tuning, accelerates too quickly;
+        * 2024 Haval H6 GT - Modeling, missing texture on the left doors;
+        * 2022 MG HS - Description, price doesn't match real life.
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: "Screenshots & Videos"
+      description: "If applicable, add any media files to help explain your issues."
+      placeholder: "https://imgur.com/a/iceeburr-5LJTfgw"
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Additional Information"
+      description: "Include any additional information about the issues."
+    validations:
+      required: false
