@@ -1,9 +1,7 @@
 name: "Question"
 description: "Ask a general question about anything."
 title: "Summarize your question."
-labels: ["question"]
-assignees:
-  - iceeburr
+labels: ["status: evaluating, type: question"]
 body:
   - type: markdown
     attributes:
